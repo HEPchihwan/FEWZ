@@ -1,0 +1,26 @@
+{
+  "FLAGS": {
+    "CXXFLAGS": [
+      "-DALPAKA_ACC_GPU_HIP_ENABLED",
+      "-DALPAKA_ACC_GPU_HIP_ONLY_MODE",
+      "-DALPAKA_HOST_ONLY"
+    ],
+    "GENREFLEX_CPPFLAGS": [
+      "-DALPAKA_ACC_GPU_HIP_ENABLED",
+      "-DALPAKA_ACC_GPU_HIP_ONLY_MODE",
+      "-DALPAKA_HOST_ONLY"
+    ],
+    "ROCM_FLAGS": [
+      "-DALPAKA_ACC_GPU_HIP_ENABLED",
+      "-DALPAKA_ACC_GPU_HIP_ONLY_MODE",
+      "-UALPAKA_HOST_ONLY"
+    ]
+  },
+  "TOOLNAME": "alpaka-rocm",
+  "TOOLREVISION": "1",
+  "TOOLVERSION": "1.2.0-ce4b840cb6308c9be80d192f663d60d7",
+  "USE": [
+    "alpaka",
+    "rocm"
+  ]
+}

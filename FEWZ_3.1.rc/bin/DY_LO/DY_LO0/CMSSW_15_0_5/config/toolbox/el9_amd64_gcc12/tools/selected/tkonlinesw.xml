@@ -1,0 +1,14 @@
+<tool name="TkOnlineSw" version="4.2.0-1_gcc7-744543a9623c9c121099cf3de40e5e24" revision="1">
+  <info url="http://www.cern.ch/"/>
+  <lib name="ICUtils"/>
+  <lib name="Fed9UUtils"/>
+  <client>
+    <environment name="TKONLINESW_BASE" default="/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/tkonlinesw/4.2.0-1_gcc7-744543a9623c9c121099cf3de40e5e24"/>
+    <environment name="LIBDIR" value="$TKONLINESW_BASE/lib"/>
+    <environment name="INCLUDE" value="$TKONLINESW_BASE/include"/>
+  </client>
+  <runtime name="ROOT_INCLUDE_PATH" value="$INCLUDE" type="path"/>
+  <flags CXXFLAGS="-DCMS_TK_64BITS"/>
+  <use name="root_cxxdefaults"/>
+  <use name="xerces-c"/>
+</tool>

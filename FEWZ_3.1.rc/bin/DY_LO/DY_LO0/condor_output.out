@@ -1,0 +1,19 @@
+TEST FIRST
+/data6/Users/snuintern1/FEWZ/condor/FEWZ_3.1.rc/bin/DY_LO/DY_LO0
+total 4.0K
+drwxr-xr-x 4 snuintern1 snuintern1 4.0K Apr 30 18:24 config
+drwxr-xr-x 2 snuintern1 snuintern1   10 May 15 19:39 src
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 15 19:39 lib
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 15 19:39 bin
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 15 19:39 test
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 15 19:39 logs
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 15 19:39 objs
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 15 19:39 biglib
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 15 19:39 cfipython
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 15 19:39 static
+drwxr-xr-x 2 snuintern1 snuintern1   10 May 15 19:39 include
+drwxr-xr-x 2 snuintern1 snuintern1   10 May 15 19:39 doc
+drwxr-xr-x 2 snuintern1 snuintern1   10 May 15 19:39 python
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 15 19:39 tmp
+TEST DIR
+/data6/Users/snuintern1/FEWZ/condor/FEWZ_3.1.rc/bin/DY_LO/DY_LO0

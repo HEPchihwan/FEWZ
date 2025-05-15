@@ -1,0 +1,10 @@
+<tool name="tensorflow-xla-runtime" version="2.12.0-998b65389ae80d2b1ec7d04b75071f75" revision="1">
+  <client>
+    <environment name="TENSORFLOW_XLA_RUNTIME_BASE" default="/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/tensorflow-xla-runtime/2.12.0-998b65389ae80d2b1ec7d04b75071f75"/>
+    <environment name="LIBDIR" default="$TENSORFLOW_XLA_RUNTIME_BASE/lib"/>
+  </client>
+  <lib name="tf_xla_runtime"/>
+
+  <use name="eigen"/>
+  <use name="tensorflow-includes"/>
+</tool>

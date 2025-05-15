@@ -1,0 +1,13 @@
+{
+  "CICADA_BASE": "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/CICADA/1.4.0-f4c03e10d9b833e0a496ba621b9f3d2b",
+  "LIBDIR": [
+    "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/CICADA/1.4.0-f4c03e10d9b833e0a496ba621b9f3d2b/lib64"
+  ],
+  "TOOLNAME": "cicada",
+  "TOOLREVISION": "1",
+  "TOOLVERSION": "1.4.0-f4c03e10d9b833e0a496ba621b9f3d2b",
+  "VARIABLES": [
+    "CICADA_BASE",
+    "LIBDIR"
+  ]
+}

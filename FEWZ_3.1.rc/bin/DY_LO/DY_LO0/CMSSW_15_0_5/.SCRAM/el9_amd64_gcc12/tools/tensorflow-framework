@@ -1,0 +1,15 @@
+{
+  "LIB": [
+    "tensorflow_framework"
+  ],
+  "TOOLNAME": "tensorflow-framework",
+  "TOOLREVISION": "1",
+  "TOOLVERSION": "2.12.0-9d3d7283d67efdf94c6ae9d4eaf29988",
+  "USE": [
+    "tensorflow",
+    "giflib",
+    "zlib",
+    "libjpeg-turbo",
+    "protobuf"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "LIB": [
+    "RooFitCore"
+  ],
+  "ROOFIT_BASE": "/cvmfs/cms.cern.ch/el9_amd64_gcc12/lcg/root/6.32.11-bbbeef23051c44807b71e1615146da1b",
+  "RUNTIME": {
+    "ROOFITSYS": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/lcg/root/6.32.11-bbbeef23051c44807b71e1615146da1b/"
+    ]
+  },
+  "TOOLNAME": "roofitcore",
+  "TOOLREVISION": "1",
+  "TOOLVERSION": "6.32.11-bbbeef23051c44807b71e1615146da1b",
+  "USE": [
+    "rootcore",
+    "roothistmatrix",
+    "rootgpad",
+    "rootminuit",
+    "root_cxxdefaults"
+  ],
+  "VARIABLES": [
+    "ROOFIT_BASE"
+  ]
+}

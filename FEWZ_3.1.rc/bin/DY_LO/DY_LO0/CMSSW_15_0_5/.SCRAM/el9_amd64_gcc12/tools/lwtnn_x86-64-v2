@@ -1,0 +1,14 @@
+{
+  "RUNTIME": {
+    "PATH:X86_64_V2_PATH": [
+      "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/lwtnn_x86-64-v2/2.14.1-a2793454755a3a348afe25f1675fda50/bin"
+    ]
+  },
+  "TOOLNAME": "lwtnn_x86-64-v2",
+  "TOOLREVISION": "1",
+  "TOOLVERSION": "2.14.1-a2793454755a3a348afe25f1675fda50",
+  "VARIABLES": [
+    "X86_64_V2_LIBDIR"
+  ],
+  "X86_64_V2_LIBDIR": "/cvmfs/cms.cern.ch/el9_amd64_gcc12/external/lwtnn_x86-64-v2/2.14.1-a2793454755a3a348afe25f1675fda50/lib"
+}

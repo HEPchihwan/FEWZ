@@ -1,0 +1,11 @@
+{
+  "LIB": [
+    "boost_iostreams"
+  ],
+  "TOOLNAME": "boost_iostreams",
+  "TOOLREVISION": "1",
+  "TOOLVERSION": "1.80.0-ee7655da280415252b8b334e18473a5c",
+  "USE": [
+    "boost"
+  ]
+}

@@ -1,0 +1,10 @@
+executable = /data6/Users/snuintern1/FEWZ/condor/fewz_condor.sh
+log = /data6/Users/snuintern1/FEWZ/condor/log/fewz_condor_$(Process).log
+output = /data6/Users/snuintern1/FEWZ/condor/result/LO$(Process)._mytest
+error = /data6/Users/snuintern1/genproductions/err/data/LO_$(Process).err
+getenv = True
+should_transfer_files = yes
+RequestCpus = 5
+RequestMemory = 16000
+transfer_output_files = FEWZ_3.1.rc/bin/LO._mytest
+queue

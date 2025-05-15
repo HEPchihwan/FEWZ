@@ -1,0 +1,52 @@
+000 (201350.000.000) 2025-05-15 19:39:07 Job submitted from host: <172.30.1.200:9618?addrs=172.30.1.200-9618&alias=tamsa2&noUDP&sock=schedd_2464_ad72>
+...
+001 (201350.000.000) 2025-05-15 19:39:08 Job executing on host: <172.30.1.216:9618?addrs=172.30.1.216-9618&alias=node-w16.localdomain&noUDP&sock=startd_3941_c6d4>
+	SlotName: slot1_33@node-w16.localdomain
+	CondorScratchDir = "/var/lib/condor/execute/dir_3712025"
+	Cpus = 1
+	Disk = 23552
+	GPUs = 0
+	Memory = 3968
+...
+006 (201350.000.000) 2025-05-15 19:39:21 Image size of job updated: 9716
+	10  -  MemoryUsage of job (MB)
+	9716  -  ResidentSetSize of job (KB)
+...
+005 (201350.000.000) 2025-05-15 19:39:30 Job terminated.
+	(1) Normal termination (return value 134)
+		Usr 0 00:00:01, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :    22500    22500     23552 
+	   GPUs                 :                           0 
+	   Memory (MB)          :       10     3900      3968 
+	   TimeExecute (s)      :       22                    
+	   TimeSlotBusy (s)     :       23                    
+
+	Job terminated of its own accord at 2025-05-15T10:39:30Z with exit-code 134.
+...
+000 (201351.000.000) 2025-05-15 19:41:29 Job submitted from host: <172.30.1.200:9618?addrs=172.30.1.200-9618&alias=tamsa2&noUDP&sock=schedd_2464_ad72>
+...
+001 (201351.000.000) 2025-05-15 19:41:30 Job executing on host: <172.30.1.215:9618?addrs=172.30.1.215-9618&alias=node-w15.localdomain&noUDP&sock=startd_3940_173c>
+	SlotName: slot1_39@node-w15.localdomain
+	CondorScratchDir = "/var/lib/condor/execute/dir_1529590"
+	Cpus = 1
+	Disk = 23552
+	GPUs = 0
+	Memory = 3968
+...
+006 (201351.000.000) 2025-05-15 19:41:44 Image size of job updated: 81856
+	80  -  MemoryUsage of job (MB)
+	81856  -  ResidentSetSize of job (KB)
+...
+006 (201351.000.000) 2025-05-15 19:46:45 Image size of job updated: 88772
+	87  -  MemoryUsage of job (MB)
+	88772  -  ResidentSetSize of job (KB)
+...
