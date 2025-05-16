@@ -1,0 +1,12 @@
+Universe = vanilla
+Notification = Error
+Output = condor_output.out
+Log = condor_log.log
+Error = condor_error.err
+
+transfer_input_files = ../fewzz, ../input_z.txt, ../histograms.txt, ../bins.txt,
+Executable =DY_NLO$(Process)/wrapper.sh
+Arguments = $(Process) 
+Initialdir = DY_NLO$(Process)
+when_to_transfer_output = ON_EXIT 
+Queue 1

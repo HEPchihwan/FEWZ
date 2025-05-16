@@ -1,0 +1,2 @@
+WARNING: In non-interactive mode release checks e.g. deprecated releases, production architectures are disabled.
+WARNING: There already exists /data6/Users/snuintern1/FEWZ/condor/FEWZ_3.1.rc/bin/DY_NNLO/DY_NNLO37/CMSSW_15_0_5 area for SCRAM_ARCH el9_amd64_gcc12.
