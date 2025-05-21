@@ -1,0 +1,84 @@
+000 (225829.072.000) 2025-05-20 12:25:47 Job submitted from host: <172.30.1.200:9618?addrs=172.30.1.200-9618&alias=tamsa2&noUDP&sock=schedd_2464_ad72>
+...
+001 (225829.072.000) 2025-05-20 12:25:51 Job executing on host: <172.30.1.201:9618?addrs=172.30.1.201-9618&alias=node-w1.localdomain&noUDP&sock=startd_3918_0026>
+	SlotName: slot1_47@node-w1.localdomain
+	CondorScratchDir = "/var/lib/condor/execute/dir_2703914"
+	Cpus = 1
+	Disk = 23552
+	GPUs = 0
+	Memory = 3968
+...
+006 (225829.072.000) 2025-05-20 12:26:04 Image size of job updated: 9396
+	10  -  MemoryUsage of job (MB)
+	9396  -  ResidentSetSize of job (KB)
+...
+006 (225829.072.000) 2025-05-20 12:31:04 Image size of job updated: 9972
+	10  -  MemoryUsage of job (MB)
+	9624  -  ResidentSetSize of job (KB)
+...
+006 (225829.072.000) 2025-05-20 12:31:38 Image size of job updated: 10884
+	10  -  MemoryUsage of job (MB)
+	9624  -  ResidentSetSize of job (KB)
+...
+005 (225829.072.000) 2025-05-20 12:31:39 Job terminated.
+	(1) Normal termination (return value 127)
+		Usr 0 00:00:01, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:01, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.00        1         1 
+	   Disk (KB)            : 22500       22500     23552 
+	   GPUs                 :                           0 
+	   Memory (MB)          :    10        3900      3968 
+	   TimeExecute (s)      :   347                       
+	   TimeSlotBusy (s)     :   348                       
+
+	Job terminated of its own accord at 2025-05-20T03:31:38Z with exit-code 127.
+...
+000 (225830.072.000) 2025-05-20 12:36:08 Job submitted from host: <172.30.1.200:9618?addrs=172.30.1.200-9618&alias=tamsa2&noUDP&sock=schedd_2464_ad72>
+...
+001 (225830.072.000) 2025-05-20 12:36:14 Job executing on host: <172.30.1.220:9618?addrs=172.30.1.220-9618&alias=node-w20.localdomain&noUDP&sock=startd_10373_97fb>
+	SlotName: slot1_53@node-w20.localdomain
+	CondorScratchDir = "/var/lib/condor/execute/dir_985829"
+	Cpus = 1
+	Disk = 23552
+	GPUs = 0
+	Memory = 3968
+...
+006 (225830.072.000) 2025-05-20 12:36:28 Image size of job updated: 9404
+	10  -  MemoryUsage of job (MB)
+	9404  -  ResidentSetSize of job (KB)
+...
+006 (225830.072.000) 2025-05-20 12:41:28 Image size of job updated: 10000
+	10  -  MemoryUsage of job (MB)
+	9652  -  ResidentSetSize of job (KB)
+...
+006 (225830.072.000) 2025-05-20 12:46:29 Image size of job updated: 163120
+	160  -  MemoryUsage of job (MB)
+	163120  -  ResidentSetSize of job (KB)
+...
+005 (225830.072.000) 2025-05-20 15:33:16 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 02:48:27, Sys 0 00:00:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 02:48:27, Sys 0 00:00:06  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.99        1         1 
+	   Disk (KB)            : 22500       22500     23552 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   160        3900      3968 
+	   TimeExecute (s)      : 10622                       
+	   TimeSlotBusy (s)     : 10624                       
+
+	Job terminated of its own accord at 2025-05-20T06:33:16Z with exit-code 1.
+...
