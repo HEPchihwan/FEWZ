@@ -21,7 +21,7 @@ Name (DO NOT CHANGE)    Num Bins (<30)	Lower Bound	Upper Bound	Write Out (1=hist
 '19. dR_j2,l+	      '	20		0d0		5d0		1
 '20. dR_j1j2          ' 20		0d0		5d0		1
 '21. dR_phot,l+-      ' 20              0d0             5d0             1
-'22. H_T	      ' 20		0d0		200d0		1
+'22. H_T	      ' 'bins.txt'		0d0		1800d0		1
 '23. Mass_T           ' 20		0d0		1000d0		1
 '24. A_FB vs Q_ll     ' 20              66d0            116d0           1
 ====================================================================================

@@ -54,3 +54,31 @@
 	83  -  MemoryUsage of job (MB)
 	84564  -  ResidentSetSize of job (KB)
 ...
+006 (202083.000.000) 2025-05-16 13:15:55 Image size of job updated: 113556
+	111  -  MemoryUsage of job (MB)
+	113556  -  ResidentSetSize of job (KB)
+...
+006 (202083.000.000) 2025-05-16 15:11:03 Image size of job updated: 114472
+	112  -  MemoryUsage of job (MB)
+	114472  -  ResidentSetSize of job (KB)
+...
+005 (202083.000.000) 2025-05-17 03:14:01 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 15:18:20, Sys 0 00:00:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 15:18:20, Sys 0 00:00:03  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            : 22500       22500     23552 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   112        3900      3968 
+	   TimeExecute (s)      : 55410                       
+	   TimeSlotBusy (s)     : 55410                       
+
+	Job terminated of its own accord at 2025-05-16T18:14:01Z with exit-code 1.
+...
