@@ -1,0 +1,50 @@
+000 (303213.036.000) 2025-05-21 18:15:53 Job submitted from host: <172.30.1.200:9618?addrs=172.30.1.200-9618&alias=tamsa2&noUDP&sock=schedd_2464_ad72>
+...
+001 (303213.036.000) 2025-05-21 18:15:56 Job executing on host: <172.30.1.213:9618?addrs=172.30.1.213-9618&alias=node-w13.localdomain&noUDP&sock=startd_3910_8364>
+	SlotName: slot1_29@node-w13.localdomain
+	CondorScratchDir = "/var/lib/condor/execute/dir_118260"
+	Cpus = 1
+	Disk = 23552
+	GPUs = 0
+	Memory = 3968
+...
+006 (303213.036.000) 2025-05-21 18:16:10 Image size of job updated: 9400
+	10  -  MemoryUsage of job (MB)
+	9400  -  ResidentSetSize of job (KB)
+...
+006 (303213.036.000) 2025-05-21 18:21:11 Image size of job updated: 163088
+	160  -  MemoryUsage of job (MB)
+	163088  -  ResidentSetSize of job (KB)
+...
+006 (303213.036.000) 2025-05-21 19:56:24 Image size of job updated: 174228
+	171  -  MemoryUsage of job (MB)
+	174228  -  ResidentSetSize of job (KB)
+...
+006 (303213.036.000) 2025-05-21 20:01:24 Image size of job updated: 174672
+	171  -  MemoryUsage of job (MB)
+	174672  -  ResidentSetSize of job (KB)
+...
+006 (303213.036.000) 2025-05-21 20:06:25 Image size of job updated: 180892
+	177  -  MemoryUsage of job (MB)
+	180892  -  ResidentSetSize of job (KB)
+...
+005 (303213.036.000) 2025-05-21 20:16:45 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 01:57:14, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:57:14, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            : 22500       22500     23552 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   177        3900      3968 
+	   TimeExecute (s)      :  7249                       
+	   TimeSlotBusy (s)     :  7249                       
+
+	Job terminated of its own accord at 2025-05-21T11:16:45Z with exit-code 1.
+...

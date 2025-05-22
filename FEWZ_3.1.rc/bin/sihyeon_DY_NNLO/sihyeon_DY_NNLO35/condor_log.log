@@ -1,0 +1,46 @@
+000 (303213.035.000) 2025-05-21 18:15:53 Job submitted from host: <172.30.1.200:9618?addrs=172.30.1.200-9618&alias=tamsa2&noUDP&sock=schedd_2464_ad72>
+...
+001 (303213.035.000) 2025-05-21 18:15:56 Job executing on host: <172.30.1.213:9618?addrs=172.30.1.213-9618&alias=node-w13.localdomain&noUDP&sock=startd_3910_8364>
+	SlotName: slot1_27@node-w13.localdomain
+	CondorScratchDir = "/var/lib/condor/execute/dir_118259"
+	Cpus = 1
+	Disk = 23552
+	GPUs = 0
+	Memory = 3968
+...
+006 (303213.035.000) 2025-05-21 18:16:10 Image size of job updated: 9396
+	10  -  MemoryUsage of job (MB)
+	9396  -  ResidentSetSize of job (KB)
+...
+006 (303213.035.000) 2025-05-21 18:21:11 Image size of job updated: 165156
+	162  -  MemoryUsage of job (MB)
+	165156  -  ResidentSetSize of job (KB)
+...
+006 (303213.035.000) 2025-05-21 20:11:26 Image size of job updated: 177536
+	174  -  MemoryUsage of job (MB)
+	177536  -  ResidentSetSize of job (KB)
+...
+006 (303213.035.000) 2025-05-21 20:21:27 Image size of job updated: 182980
+	179  -  MemoryUsage of job (MB)
+	182980  -  ResidentSetSize of job (KB)
+...
+005 (303213.035.000) 2025-05-21 20:23:39 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 02:04:04, Sys 0 00:00:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 02:04:04, Sys 0 00:00:03  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00        1         1 
+	   Disk (KB)            : 22500       22500     23552 
+	   GPUs                 :                           0 
+	   Memory (MB)          :   179        3900      3968 
+	   TimeExecute (s)      :  7663                       
+	   TimeSlotBusy (s)     :  7663                       
+
+	Job terminated of its own accord at 2025-05-21T11:23:39Z with exit-code 1.
+...

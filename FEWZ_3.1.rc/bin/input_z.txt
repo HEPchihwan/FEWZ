@@ -41,8 +41,8 @@ Vegas Parameters
 'Maximum number of evaluations = ' 20000000
 'Random number seed for Vegas = ' 11
 =============================================
-'QCD Perturb. Order (0=LO, 1=NLO, 2=NNLO) = ' 0
-'EW Perturb. Order (0=LO, 1=NLO) = ' 0
+'QCD Perturb. Order (0=LO, 1=NLO, 2=NNLO) = ' 1
+'EW Perturb. Order (0=LO, 1=NLO) = ' 1
 'Z pole focus (1=Yes, 0=No) = ' 1
 'EW control (leave 0 to keep all on) = ' 1
 'Turn off photon (1=Yes, 0=No, disabled if weak corr. is on) = ' 0

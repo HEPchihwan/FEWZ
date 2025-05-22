@@ -1,0 +1,20 @@
+TEST FIRST
+/data6/Users/snuintern1/FEWZ/condor/FEWZ_3.1.rc/bin/sihyeon_DY_NNLO/sihyeon_DY_NNLO114
+Development area is created without multi-microarchitectures support. Default micro-architecture will be used for build and runtime.
+total 4.0K
+drwxr-xr-x 4 snuintern1 snuintern1 4.0K Apr 30 18:24 config
+drwxr-xr-x 2 snuintern1 snuintern1   10 May 21 18:19 src
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 21 18:19 lib
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 21 18:19 bin
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 21 18:19 test
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 21 18:19 logs
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 21 18:19 objs
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 21 18:19 biglib
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 21 18:19 cfipython
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 21 18:19 static
+drwxr-xr-x 2 snuintern1 snuintern1   10 May 21 18:19 include
+drwxr-xr-x 2 snuintern1 snuintern1   10 May 21 18:19 doc
+drwxr-xr-x 2 snuintern1 snuintern1   10 May 21 18:19 python
+drwxr-xr-x 3 snuintern1 snuintern1   36 May 21 18:19 tmp
+TEST DIR
+/data6/Users/snuintern1/FEWZ/condor/FEWZ_3.1.rc/bin/sihyeon_DY_NNLO/sihyeon_DY_NNLO114

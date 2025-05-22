@@ -1,0 +1,13 @@
+Universe = vanilla
+Notification = Error
+Output = condor_output.out
+Log = condor_log.log
+Error = condor_error.err
+
+transfer_input_files = ../fewzz, ../input_z.txt, ../histograms.txt, ../bins.txt,
+Executable =sihyeon_DY_NNLO$(Process)/wrapper.sh
+Arguments = $(Process) 
+Initialdir = sihyeon_DY_NNLO$(Process)
+when_to_transfer_output = ON_EXIT 
++JobFlavour = "nextweek" 
+Queue 127
